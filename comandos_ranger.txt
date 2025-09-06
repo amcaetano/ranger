@@ -1,0 +1,50 @@
+
+#----------------------------------------- COMANDOS BÁSICOS GERENCIADOR DE ARQUIVOS RANGER --------------------------------------------#
+
+
+
+
+#1 Abrir gerenciador de arquivos ranger
+  abra o emulador de terminal e digite ranger.
+
+#2 Navegar nos diretorios apresentados no ranger
+  use as setas direita, esquerda, cima e baixo
+
+#3 abrir arquivos pode apertar a tecla enter ou usar a tecla para direita até o gerenciador abrir o arquivo no aplicativo adequado dependendo do tipo de arquivo.
+
+#4 sair da visualização de imagens
+  aperte a tecla esc
+
+#5 Selecionar arquivos
+  Aperte a tecla espaço em cima do arquivo desejado
+
+#6 Copiar arquivo selecionado
+  aperte a tecla yy(aperte duas vezes)
+
+#7 Colar arquivo selecionado.
+  Aperte a tecla pp(aperte duas vezes)
+
+#8 Excluindo arquivo selecionado.
+  Aperte "dD" ou Aperte a tecla ':' e depois digite 'delete'
+
+#9 Renomear arquivo ou diretório enquanto estiverem selecionados.
+  Aperte a tecla 'Shift + a'
+
+#10 Criar novo arquivo
+  Aperte a tecla ':' e digite o comando 'touch' espaço e o nome do arquivo desejado.
+
+#11 Visualizar arquivos ocultos
+  Aperte a tecla 'ctrl+h'
+
+#12 Abrir arquivo com aplicativo não padrão
+  Selecione o arquivo desejado, aperte a tecla 'r' e depois que mostrar o campo digite o nome do aplicativo 
+
+
+# AUTOR
+Antonio Marcos de Paula Caetano
+
+# DATA DE CRIAÇÃO
+Este documento foi criado no dia 01/07/2025
+
+# FINALIDADE
+Este documento tem a finalidade de apresentar comandos básicos para operação do software gestor de arquivos em modo texto ranger.
